@@ -9,4 +9,5 @@
     2. Information gathering
     3. Implementation
     4. Sync work with remote repository
+     5. Sync work with remote repository
     """
